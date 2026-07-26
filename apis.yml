@@ -1,7 +1,24 @@
 aid: fitco
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/fitco.png
 name: FITCO
-description: FITCO is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Fitco is the leading management software for boutique fitness studios and gyms in Latin
+  America. It lets centers administer reservations, memberships, payments, online classes and check-in,
+  and provides a custom website and mobile app for each studio's members. It specializes in pilates,
+  barre, indoor cycling, yoga, functional training, strength, sports academies and wellness centers.
+  Fitco operates in Mexico, Peru, Colombia, Chile, Argentina and the United States; as of May 2026 more
+  than 1,400 fitness centers use it. It integrates online payments via Stripe and Mercado Pago and
+  customer acquisition via Wellhub and TotalPass.
 url: https://raw.githubusercontent.com/api-evangelist/fitco/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +28,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Fitness
+- Gym Management
+- SaaS
+- Latin America
+- Bookings
+- Memberships
+- Payments
+- Wellness
+- Boutique Fitness
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +47,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: LLMsTxt
+  url: llms/fitco-llms.txt
+- type: DomainSecurity
+  url: security/fitco-domain-security.yml
 - type: Website
   url: https://fitcolatam.com
+- type: Pricing
+  url: https://www.fitcolatam.com/precios/
+- type: Blog
+  url: https://www.fitcolatam.com/blog/
+- type: TermsOfService
+  url: https://www.fitcolatam.com/terminos-condiciones/
+- type: PrivacyPolicy
+  url: https://www.fitcolatam.com/politica-de-privacidad/
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

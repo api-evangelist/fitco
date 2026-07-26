@@ -1,0 +1,45 @@
+# Fitco
+
+> Fitco es el software de gestión para estudios fitness y gimnasios boutique líder en Latinoamérica. Permite administrar reservas, membresías, pagos, clases online y check-in, e incluye web y app personalizadas para los alumnos de cada estudio. Está especializado en estudios de pilates, barre, indoor cycling, yoga, entrenamiento funcional, fuerza, academias deportivas y centros wellness.
+
+Fitco opera en México, Perú, Colombia, Chile, Argentina y Estados Unidos. A mayo de 2026, más de 1,400 centros fitness en Latinoamérica usan Fitco, y la plataforma ha gestionado más de 16 millones de reservas y más de 900 mil clases. Integra pagos online con Stripe y Mercado Pago, y captación de clientes mediante Wellhub y TotalPass. El soporte lo brinda un equipo humano (no bots) con tiempos de respuesta menores a 5 minutos. Teléfono de contacto: +52 562 333 3330.
+
+## Páginas principales
+
+- [Inicio](https://www.fitcolatam.com/): qué es Fitco y propuesta de valor para estudios fitness boutique
+- [Planes y precios](https://www.fitcolatam.com/precios/): planes disponibles y agendamiento de demo gratuita de 30 minutos
+- [Sobre nosotros](https://www.fitcolatam.com/sobre-nosotros/): historia y equipo de Fitco
+- [Fitco vs otros](https://www.fitcolatam.com/competencia/): comparativa de Fitco frente a otros software fitness
+- [Partners](https://www.fitcolatam.com/partners/): integraciones y alianzas (Stripe, Mercado Pago, Wellhub, TotalPass)
+- [Blog](https://www.fitcolatam.com/blog/): más de 220 artículos sobre gestión de centros fitness, webinars y el podcast Fitco Talks
+
+## Soluciones por tipo de centro
+
+- [Estudios de pilates](https://www.fitcolatam.com/pilates/): software de reservas y gestión para estudios de pilates y pilates reformer
+- [Estudios de barre](https://www.fitcolatam.com/barre/): gestión de clases, paquetes y membresías para estudios de barre
+- [Yoga y pilates](https://www.fitcolatam.com/tipos-de-centro-yoga-y-pilates/): software para estudios de yoga y pilates
+- [Indoor cycling](https://www.fitcolatam.com/tipos-de-centro-indoor-cycling/): reservas con selección de bici y gestión para estudios de cycling
+- [Entrenamiento funcional](https://www.fitcolatam.com/tipos-de-centro-funcional/): gestión para boxes y estudios de entrenamiento funcional
+- [Fuerza](https://www.fitcolatam.com/fuerza/): software para centros de entrenamiento de fuerza
+- [Gimnasios](https://www.fitcolatam.com/tipos-de-centro-gimnasios/): gestión de membresías y accesos para gimnasios boutique
+- [Academias deportivas](https://www.fitcolatam.com/tipos-de-centro-deportes/): gestión para academias y centros deportivos
+- [Centros wellness](https://www.fitcolatam.com/wellness/): software para centros wellness, spas y estudios holísticos
+
+## Fitco por país
+
+- [México](https://www.fitcolatam.com/software-fitness-en-mexico/): software para estudios fitness en México
+- [Perú](https://www.fitcolatam.com/software-fitness-en-peru/): software para estudios fitness en Perú
+- [Colombia](https://www.fitcolatam.com/software-fitness-en-colombia/): software para estudios fitness en Colombia
+- [Chile](https://www.fitcolatam.com/software-fitness-en-chile/): software para estudios fitness en Chile
+- [Estados Unidos](https://www.fitcolatam.com/software-fitness-en-ee-uu/): software para estudios fitness en EE. UU.
+
+## Funcionalidades destacadas
+
+- [Web personalizada](https://www.fitcolatam.com/web-personalizada/): web propia para cada estudio integrada al sistema de reservas
+- [Lista de espera](https://www.fitcolatam.com/lista-de-espera/): gestión automática de cupos y listas de espera en clases
+- [No-show fee](https://www.fitcolatam.com/no-show-fee/): cobro automático por inasistencia a clases reservadas
+
+## Optional
+
+- [Términos y condiciones](https://www.fitcolatam.com/terminos-condiciones/)
+- [Política de privacidad](https://www.fitcolatam.com/politica-de-privacidad/)
